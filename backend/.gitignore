@@ -1,0 +1,34 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker
+docker-compose.override.yml
+
+# Directorios de construcción
+dist/
+build/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Otros
+*.swp
+*.swo
